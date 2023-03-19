@@ -17,7 +17,9 @@ Hello! I'm Muhammad Subhan, a passionate software developer who loves problem-so
 Here's an overview of the programming languages, frameworks, and tools I've worked with:
 
 Languages: Java, Python, C, C++, MATLAB.
+
 Frameworks: JavaFX, JUnit, Filter Design Toolbox, Signal Processing Toolbox, Arduino Core, Arduino UNO, Adafruit NeoPixel, etc.
+
 Tools: Git, GitHub, VSCode, jetBrains, Maven, etc.
 
 Feel free to explore my GitHub repositories for a deeper look into my work.
